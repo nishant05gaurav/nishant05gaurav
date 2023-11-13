@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Hi, I am Nishant Gaurav, a freshman pursuing Computer Science from LNCT, Bhopal. I am an avid learner and a tech enthusiast. 
+
 👯 I’m looking to collaborate on: Web Development<br>🌱 I’m currently learning: C++ and Operating Systems<br>💬 Ask me about: C/C++, Web Development, and CSE fundamentals.
 
 
