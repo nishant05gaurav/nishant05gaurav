@@ -1,23 +1,11 @@
-
-<br clear="both">
-
 <h1 align="center">Hi there 👋, I'm Nishant</h1>
-
-
-
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU"  />
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU" />
 </div>
 
+<h2 align="center">Who Am I ?✨</h2>
 
-<br clear="both">
-
-<h2 align="center">Who I Am ✨</h2>
-
-###
-
-<h4 align="center">
-
+<h4 align="center" style="color:black;">
 👋 Hello, GitHub Community! I'm a computer science student currently studying at LNCT Bhopal. I'm a fresher in the field,
  but I have a deep passion for coding and learning new technologies. I've been recognized with a five-star rating in C language
  on HackerRank, and I'm currently holding a three-star rating in C++. My love for coding extends beyond these languages,
