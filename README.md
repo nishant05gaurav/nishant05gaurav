@@ -8,7 +8,7 @@
 <h2 align="center">Who Am I  ?✨</h2>
 
 <h4 align="center" style="color:black;">
-👋 Hello, GitHub Community! I'm a Computer Science freshman from LNCT Bhopal. My adventure as a freshman has just begun, but I'm already making progress thanks to my passion for programming and my curiosity about exploring and learning new technologies. 🌼 I'm glad to have achieved a five-star rating on HackerRank for languages like C, and C++. I'm always trying to learn new languages and explore the wide world of coding possibilities. Apart from languages, I am currently focusing on Computer Science fundamentals along with learning Operating Systems, and LINUX.
+👋 Hello, GitHub Community! I'm a Computer Science sophomore from LNCT Bhopal. My adventure as a freshman has just begun, but I'm already making progress thanks to my passion for programming and my curiosity about exploring and learning new technologies. 🌼 I'm glad to have achieved a five-star rating on HackerRank for languages like C, and C++. I'm always trying to learn new languages and explore the wide world of coding possibilities. Apart from languages, I am currently focusing on Computer Science fundamentals along with learning Operating Systems, and LINUX.
 <br><br>
 Please get in touch if you'd like to work together or just geek out about programming. 
 
@@ -44,9 +44,6 @@ Please get in touch if you'd like to work together or just geek out about progra
 ![](https://github-profile-trophy.vercel.app/?username=nishant05gaurav&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 
-<!-- Other Section-->
-### Let's laugh?
-<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
