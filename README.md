@@ -1,19 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Nishant</h1>
+<h1 align="center">Hi there, I'm Nishant👋🏻</h1>
 <div align="center">
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU" />
 </div>
 
 
 <!-- Intro Section-->
-<h2 align="center">Who Am I  ?✨</h2>
+<h2 align="center">Who Am I ?</h2>
 
 <h4 align="left" style="color:black;">
-👋 Hello, GitHub Community! I'm a Computer Science sophomore from LNCT Bhopal. My adventure as a freshman has just begun, but I'm already making progress thanks to my passion for programming and my curiosity about exploring and learning new technologies. 🌼 I'm glad to have achieved a five-star rating on HackerRank for languages like C, and C++. I'm always trying to learn new languages and explore the wide world of coding possibilities. Apart from languages, I am currently focusing on Computer Science fundamentals along with learning Operating Systems, and LINUX.
+Hello, GitHub Community! I'm a Computer Science sophomore from LNCT Bhopal. My adventure to become a software developer has just begun, but I'm already making progress thanks to my passion for programming and my curiosity about exploring and learning new technologies. I'm glad to have achieved a five-star rating on HackerRank for languages like C, and C++. I'm always trying to learn new languages and explore the wide world of coding possibilities. Apart from languages, I am currently focusing on Computer Science fundamentals along with learning Operating Systems, and LINUX. In the field of development, I am currently learning about Web Development and DSA.
 <br><br>
 Please get in touch if you'd like to work together or just geek out about programming. 
-
-
-
 
 <!-- Links Section-->
 ### 🌐 Let's connect:
@@ -42,8 +39,4 @@ Please get in touch if you'd like to work together or just geek out about progra
 ![](https://github-readme-stats.vercel.app/api?username=nishant05gaurav&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishant05gaurav&theme=vue-dark&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=nishant05gaurav&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
-
-
----
 
