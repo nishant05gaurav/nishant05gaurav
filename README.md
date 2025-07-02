@@ -3,7 +3,6 @@
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU" />
 </div>
 
-
 <!-- Intro Section-->
 <h2 align="center">Who Am I ?</h2>
 
