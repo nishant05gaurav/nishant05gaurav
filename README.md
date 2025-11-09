@@ -7,7 +7,7 @@
 <h2 align="center">Who Am I ?</h2>
 
 <h4 align="left" style="color:black;">
-Hello, GitHub Community! I'm a Computer Science sophomore from LNCT Bhopal. My adventure to become a software developer has just begun, but I'm already making progress thanks to my passion for programming and curiosity about exploring and learning new technologies. I'm glad to have achieved a five-star rating on HackerRank for languages like C, and C++. I'm always trying to learn new languages and explore the world of coding possibilities. Apart from languages, I am currently focusing on Computer Science fundamentals along with learning Operating Systems, and LINUX. In the development field, I am currently learning about Web Development and DSA.
+Hello, GitHub Community! I'm a third-year Computer Science student from LNCT Bhopal. My adventure to become a software developer has just begun, but I'm already making progress thanks to my passion for programming and curiosity about exploring and learning new technologies. I'm glad to have achieved a five-star rating on HackerRank for languages like C, and C++. I'm always trying to learn new languages and explore the world of coding possibilities. Apart from languages, I am currently focusing on Computer Science fundamentals along with learning Operating Systems, and LINUX. In the development field, I am currently learning about Web Development and DSA.
 <br><br>
 Please get in touch if you'd like to work together or just geek out about programming. 
 
