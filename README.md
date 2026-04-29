@@ -39,16 +39,14 @@ Please get in touch if you'd like to work together or just geek out about progra
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,git,github,vscode" alt="Tools" />
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 💻 My Notes & Projects
-*A collection of my personal notes and deep dives into CS fundamentals:*
+### 💻 Featured Projects & Notes
+*A collection of my engineering work, AI integrations, and CS deep dives:*
 
-<div align="left">
-  <!-- Replace YOUR_NOTES_REPO_NAME with your actual repository name -->
-  <a href="https://github.com/nishant05gaurav/All-Notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=All-Notes&theme=vue-dark" alt="Notes Repository Card" />
-  </a>
+<div align="center">
+  <!-- <a href="https://github.com/nishant05gaurav/Nova-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=Nova-Assistant&theme=vue-dark" alt="NOVA Repository Card" /></a> -->
+  <a href="https://github.com/nishant05gaurav/recLog-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=recLog-&theme=vue-dark" alt="Blog Repository Card" /></a>
+  <a href="https://github.com/nishant05gaurav/All-Notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=All-Notes&theme=vue-dark" alt="Notes Repository Card" /></a>
 </div>
-
 
 ### 📈 Contribution Graph
 
