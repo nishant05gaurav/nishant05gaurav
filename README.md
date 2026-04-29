@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Nishant+Gaurav+%7C+CS+Undergrad+%26+AI+Builder;Mastering+DSA+and+logging+my+journey+at+log(nishant);Exploring+Data+Science+and+System-Level+Concepts" alt="Typing SVG" />
 </div>
 
-<br>
-
 <div align="center">
     <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU" />
 </div>
@@ -20,16 +18,28 @@ Right now, I’m deeply exploring AI, Data Science, and Python libraries, alongs
 Please get in touch if you'd like to work together or just geek out about programming.
 </h4>
 
-### Tech Stack
+### 🛠️ Tech Stack
+
 **Languages:** <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql" alt="Languages" />
 
-**Tools & Technologies:** <br>
-<img src="https://skillicons.dev/icons?i=linux,git,github,mysql,bootstrap,aws,azure" alt="Tools" />
+**Data Science & Machine Learning:** <br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<br>
+**Backend & Databases:** <br>
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb" alt="Backend and DBs" />
 
-### My Notes & Projects
+**Cloud, Tools & Environments:** <br>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,git,github,vscode" alt="Tools" />
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 💻 My Notes & Projects
 *A collection of my personal notes and deep dives into CS fundamentals:*
 
 <div align="left">
@@ -40,7 +50,7 @@ Please get in touch if you'd like to work together or just geek out about progra
 </div>
 
 
-### Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
   <picture>
@@ -50,10 +60,6 @@ Please get in touch if you'd like to work together or just geek out about progra
   </picture>
 </div>
 
-
-
----
-
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant05gaurav&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
@@ -61,15 +67,13 @@ Please get in touch if you'd like to work together or just geek out about progra
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant05gaurav&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div> -->
----
 
-### GitHub Analytics
+
+### 📊 GitHub Analytics
 
 <div align="center">
   <!-- Activity Line Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant05gaurav&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-  
-  <br>
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant05gaurav&theme=radical&hide_border=true" alt="GitHub Streak" />
