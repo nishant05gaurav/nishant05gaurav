@@ -1,56 +1,105 @@
 <h1 align="center">Hi there, I'm Nishant👋🏻</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Nishant+Gaurav+%7C+CS+Undergrad+%26+AI+Builder;Mastering+DSA+and+logging+my+journey+at+log(nishant);Exploring+Data+Science+and+System-Level+Concepts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Nishant+Gaurav+%7C+Computer+Science+%7C+Python+Developer;Backend+%26+Data+%7C+DSA+%7C+Applied+AI;Building+practical+software+with+Python%2C+APIs+%26+data" alt="Typing SVG" />
 </div>
 
 <div align="center">
-    <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU" />
+  <img height="450" width="550" src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/afb9ca76-8475-4034-bc1a-113b38314322_medium.webp" alt="Pixel art" />
 </div>
 
 <h2 align="center">Who Am I?</h2>
 
 <h4 align="left" style="color:black; font-weight: normal;">
-Hello, GitHub Community! I’m a Computer Science student focused on strengthening my basics in programming and system-level concepts. I work heavily with C, C++, Python, SQL, and Linux, while also utilizing HTML, CSS, JavaScript, and Bootstrap for web development. 
-<br>
-Right now, I’m deeply exploring AI, Data Science, and Python libraries, alongside mastering Data Structures and Algorithms (DSA). I love creating practical, structured projects like my AI Assistant NOVA—that help me understand real-world development and improve my overall technical depth. I also document the logic behind core CS concepts at my personal blog, <b><a href="https://nishant05gaurav.github.io/recLog-/">log(nishant)</a></b>
-<br>
-Please get in touch if you'd like to work together or just geek out about programming.
+
+I’m a Computer Science student specializing in Data Science, interested in building practical software and understanding how systems work from the ground up. I work primarily with Python, C++, SQL, and JavaScript, with hands-on experience in backend development, REST APIs, databases, automation, data processing, and machine learning.
+
+I enjoy turning ideas into working projects such as my geospatial location intelligence system **GhostSpot**, AI assistant **NOVA**, habit analytics engine **HabitFlow**, and automated content pipeline **recLog**. Alongside development, I regularly practice Data Structures and Algorithms and document what I learn through my notes and technical articles at <b><a href="https://nishant05gaurav.github.io/recLog-/">log(nishant)</a></b>.
+
+I’m also a Microsoft Learn Student Ambassador (Beta), where I have conducted 25+ technical workshops and community events around developer tools, Git, GitHub, Open Source, Azure, and AI.
+
+
 </h4>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql" alt="Languages" />
+### Languages
 
-**Data Science & Machine Learning:** <br>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql" alt="Languages" />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi" alt="Backend and APIs" />
+
+
+### Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23444.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Backend & Databases:** <br>
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb" alt="Backend and DBs" />
 
-**Cloud, Tools & Environments:** <br>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,git,github,vscode" alt="Tools" />
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="Databases" />
+
+
+### Cloud, Tools & Environments
+
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,git,github,githubactions,vscode" alt="Tools and Environments" />
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 💻 Featured Projects & Notes
-*A collection of my engineering work, AI integrations, and CS deep dives:*
+
+## 💻 Featured Projects & Notes
+
+*A collection of my engineering work, AI integrations, automation projects, and CS deep dives.*
+
+
+### 📍 GhostSpot — Geospatial Location Intelligence System
+
+A full-stack geospatial application for evaluating and visualizing potential locations using spatial data, distance calculations, and machine learning.
+
+
+🔗 [Repository](https://github.com/nishant05gaurav/GhostSpot)
+
+
+
+### 🤖 NOVA — AI Voice Assistant
+
+A modular Python voice assistant combining speech recognition, AI APIs, external services, and automation.
+
+
+🔗 [Repository](https://github.com/nishant05gaurav/Nova-Assistant)
+
+
+
+### 🔧 More Projects: 
+
+<a href="https://github.com/nishant05gaurav/Habit-Flow-Engine">HabitFlow Engine</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/nishant05gaurav/recLog-">recLog</a>
+
+
+
+## 📚 DSA & Practice
 
 <div align="center">
-  <!-- <a href="https://github.com/nishant05gaurav/Nova-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=Nova-Assistant&theme=vue-dark" alt="NOVA Repository Card" /></a> -->
-  <a href="https://github.com/nishant05gaurav/recLog-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=recLog-&theme=vue-dark" alt="Blog Repository Card" /></a>
-  <a href="https://github.com/nishant05gaurav/All-Notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nishant05gaurav&repo=All-Notes&theme=vue-dark" alt="Notes Repository Card" /></a>
+  <a href="https://github.com/nishant05gaurav/All-Notes">📘 All Notes</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/nishant05gaurav/Article_Notes">📝 Article Notes</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions">💻 HackerRank</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/nishant05gaurav/Algorithm-Analyzer">🧮 Algorithm Analyzer</a>
 </div>
+
 
 ### 📈 Contribution Graph
 
-<div align="center">
+  <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishant05gaurav/nishant05gaurav/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishant05gaurav/nishant05gaurav/output/github-contribution-grid-snake.svg">
@@ -58,48 +107,43 @@ Please get in touch if you'd like to work together or just geek out about progra
   </picture>
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant05gaurav&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant05gaurav&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div> -->
-
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Activity Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant05gaurav&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant05gaurav&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nishant05gaurav&theme=radical&hide_border=true&bg_color=00000000&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant05gaurav&theme=radical&hide_border=true&bg_color=00000000&hide=jupyter%20notebook&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishant05gaurav&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nishant05gaurav&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishant05gaurav&theme=vue-dark&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=nishant05gaurav&theme=radical&no-frame=false&no-bg=false&margin-w=4)  -->
 
-### Let's Connect
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100093097620855) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imur_nishant) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-05-gaurav) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@im_nishant10)
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-05-gaurav">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/im_nishant14">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://nishant05gaurav.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%2336BCF7.svg?logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linktr.ee/im_nishant">
+    <img src="https://img.shields.io/badge/Linktree-%2343E55E.svg?logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://youtube.com/@im_nishant10">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <i>Build. Learn. Document. Repeat.</i>
+</p>
