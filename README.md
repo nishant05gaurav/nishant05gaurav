@@ -82,6 +82,19 @@ A modular Python voice assistant combining speech recognition, AI APIs, external
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/nishant05gaurav/recLog-">recLog</a>
 
+## ✍️ Technical Writing
+
+I write about the technical concepts, tools, and technologies I study and explore, with a simple goal: to make difficult topics easier to understand in my own way.
+
+I try to break concepts down step by step, connect them with practical examples, and document my learning so that someone struggling with the same topic can approach it more easily.
+
+<div align="center">
+  <a href="https://dev.to/im_nishant">📝 Dev.to</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://medium.com/@im_nishant">📚 Medium</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://nishant05gaurav.github.io/recLog-/">💻 log(nishant)</a>
+</div>
 
 
 ## 📚 DSA & Practice
